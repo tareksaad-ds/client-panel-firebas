@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/client-panel-firebas/static/js/main.43d9cd20.chunk.js",
+    "main.js.map": "/client-panel-firebas/static/js/main.43d9cd20.chunk.js.map",
+    "runtime-main.js": "/client-panel-firebas/static/js/runtime-main.bea52156.js",
+    "runtime-main.js.map": "/client-panel-firebas/static/js/runtime-main.bea52156.js.map",
+    "static/js/2.817e761e.chunk.js": "/client-panel-firebas/static/js/2.817e761e.chunk.js",
+    "static/js/2.817e761e.chunk.js.map": "/client-panel-firebas/static/js/2.817e761e.chunk.js.map",
+    "index.html": "/client-panel-firebas/index.html",
+    "precache-manifest.23fbdb442f7a1990081cf299c05ca814.js": "/client-panel-firebas/precache-manifest.23fbdb442f7a1990081cf299c05ca814.js",
+    "service-worker.js": "/client-panel-firebas/service-worker.js",
+    "static/js/2.817e761e.chunk.js.LICENSE.txt": "/client-panel-firebas/static/js/2.817e761e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bea52156.js",
+    "static/js/2.817e761e.chunk.js",
+    "static/js/main.43d9cd20.chunk.js"
+  ]
+}
